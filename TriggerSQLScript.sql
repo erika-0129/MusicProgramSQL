@@ -1,5 +1,4 @@
 --COP4710
---Erika Avila Gutierrez
 
 DROP TABLE avilagut_DataLog;
 
