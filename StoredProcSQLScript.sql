@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --Stored Proceedure Script
 
 -- StoreProc1
