@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --Transaction SQL
 
 --Drop stored proceedures
