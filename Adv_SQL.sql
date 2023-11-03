@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --Advanced SQL Script
 
 --A select statement that selects data where an attribute is either null or not null;
