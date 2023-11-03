@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --Intermediate SQL Elements
 
 --A select statement that selects data from a single table;
