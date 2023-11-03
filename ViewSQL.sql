@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --View SQL
 
 -- Three statements that drop the three views (referred to below as View1, View2, and View3)
