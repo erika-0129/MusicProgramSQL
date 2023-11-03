@@ -1,5 +1,5 @@
 --COP4710
---Erika Avila Gutierrez
+
 --DML Script
 
 -- INSTER 10 records to each table
